@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// This is a comment added from test1 directory
+
 int main (int argc, char *argv[])
 {
     // change in masterxyz
