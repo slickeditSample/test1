@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Test from branch2
+
 // This is a comment added from test1 directory
 
 int main (int argc, char *argv[])
