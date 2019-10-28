@@ -2,6 +2,7 @@
 
 // This is a comment added from test1 directory
 // This is a comment added from test1 directory 2:09pm
+// This is a comment added from worktree-testBranch1 directory 2:18pm
 
 int main (int argc, char *argv[])
 {
