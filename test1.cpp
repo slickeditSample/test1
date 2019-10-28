@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 // This is a comment added from test1 directory
+//clark1
 
 int main (int argc, char *argv[])
 {
