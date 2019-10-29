@@ -2,6 +2,7 @@
 
 // This is a comment added from test1 directory
 //clark1
+//clark2
 
 int main (int argc, char *argv[])
 {
