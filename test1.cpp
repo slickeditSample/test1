@@ -5,8 +5,10 @@
 // This is the change that Dan made 2019/10/29
 //clark1
 //clark2
+// Change  F:\src\VCTests\git\test1\test1.cpp
+// Change  F:\src\VCTests\git\test1\test1.cpp testing push
 
-int main (int argc, char *argv[])
+int main(int argc, char *argv[])
 {
     // change in masterxyz
     // change in masterxyz
