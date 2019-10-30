@@ -266,6 +266,9 @@
             Filters="*.c;*.C;*.cc;*.cpp;*.cp;*.cxx;*.c++;*.prg;*.pas;*.dpr;*.asm;*.s;*.bas;*.java;*.cs;*.sc;*.e;*.cob;*.html;*.rc;*.tcl;*.py;*.pl;*.d;*.m;*.mm;*.go;*.groovy;*.gsh"
             GUID="{32D6E0AA-5F23-40ED-36AA-EF506CA8F0AD}">
             <F N="test1.cpp"/>
+            <F N="test2.cpp"/>
+            <F N="test3.cpp"/>
+            <F N="test4.cpp"/>
         </Folder>
         <Folder
             Name="Header Files"

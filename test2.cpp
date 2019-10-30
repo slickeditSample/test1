@@ -1,4 +1,9 @@
+#include <stdio.h>
+// test2.cpp
 
-// func1x
-int func1() {
+int main (int argc, char *argv[])
+{
+    printf("main in\n");
+    return(0);
 }
+
