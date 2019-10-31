@@ -12,6 +12,7 @@
 // Change  F:\src\VCTests\git\test1\test1.cpp testing push
 //clark3
 //non conflict
+//non conflict
 
 int main(int argc, char *argv[])
 {
