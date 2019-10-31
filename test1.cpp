@@ -7,6 +7,7 @@
 //clark2
 // Change  F:\src\VCTests\git\test1\test1.cpp
 // Change  F:\src\VCTests\git\test1\test1.cpp testing push
+//clark3
 
 int main(int argc, char *argv[])
 {
