@@ -20,10 +20,9 @@ int main(int argc, char *argv[])
     // change in masterxyz
     // change in masterxyz
     // change in masterxyz
-    printf("main in\n");   // test1
-    return(0);             // test1
+    printf("main in\n");
+    return(0);
     // non-conflict
     // non-conflict
     // non-conflict
 }
-

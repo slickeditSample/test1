@@ -6,7 +6,6 @@
 
 int main (int argc, char *argv[])
 {
-    printf("main in\n");  // test1
-    return(0);            // test1
+    printf("main in\n");  // test1_a extra
+    return(0);            // test1_a extra
 }
-
