@@ -26,8 +26,3 @@ int main(int argc, char *argv[])
     // non-conflict          x
     // non-conflict          x
 }
-//comment 
-//comment 
-//comment 
-//comment 
-//comment 
