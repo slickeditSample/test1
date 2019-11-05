@@ -16,10 +16,10 @@
 
 int main(int argc, char *argv[])
 {
-    // change in masterxyz
-    // change in masterxyz
-    // change in masterxyz
-    // change in masterxyz
+    // change in master
+    // change in master
+    // change in master
+    // change in master
     printf("main in\n");
     return(0);
     // non-conflict
