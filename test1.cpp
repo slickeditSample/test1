@@ -18,6 +18,5 @@ int main(int argc, char *argv[])
 {
     printf("main in\n");
     return(0);
+    // conflict
 }
-//comment at bottom
-//comment at bottom
