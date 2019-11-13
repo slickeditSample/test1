@@ -16,7 +16,6 @@
 
 int main(int argc, char *argv[])
 {
-    // change in master
     printf("main in\n");
     return(0);
     // non-conflict
