@@ -8,6 +8,7 @@
 // Comment 3
 
 // change from f:\src\VCTests\git\test1_20200103\test1.cpp
+// change from /src/vcTest/git/test_20200103/test1.cpp
 
 int main(int argc, char *argv[])
 {
