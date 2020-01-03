@@ -13,6 +13,8 @@
 // Change  F:\src\VCTests\git\test1\test1.cpp testing push
 //clark3
 
+// Change from f:\src\VCTests\git\test1_20200103\test1.cpp
+
 /* 
   change on master
 */
