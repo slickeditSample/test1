@@ -10,6 +10,8 @@
 //clark2
 //clark3
 
+// commit from f:\src\VCTests\git2\master\test1.cpp
+
 /* 
   change on master
 */
