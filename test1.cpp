@@ -10,8 +10,7 @@
 //clark2
 //clark3
 
-// Commit from /src/vcTest/git/master/test1.cpp
-// Commit from f:\src\VCTests\git3\master\test1.cpp
+// commit from git2/master/test1.cpp
 
 /* 
   change on master
