@@ -38,3 +38,4 @@ int main(int argc, char *argv[])
 // Commit from /src/vcTest/git/master2/test1.cpp
 // Commit from /src/vcTest/git/master2/test1.cpp
 // Commit from /src/vcTest/git/master2/test1.cpp
+// Commit from /src/vcTest/git/master2/test1.cpp
