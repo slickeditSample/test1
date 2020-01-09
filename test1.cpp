@@ -34,3 +34,4 @@ int main(int argc, char *argv[])
     // change in func
     return(0);
 }
+// Change  F:\src\VCTests\git\master\test1.cpp pushing to cause failure
