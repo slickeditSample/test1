@@ -9,19 +9,7 @@
 //clark1
 //clark2
 //clark3
-// Change  F:\src\VCTests\git\test1\test1.cpp
-// Change  F:\src\VCTests\git\test1\test1.cpp testing push
-// Change  F:\src\VCTests\git\test1\test1.cpp pushing to cause failure
-// Change  F:\src\VCTests\git\master\test1.cpp pushing to cause failure
-// Change  F:\src\VCTests\git\master\test1.cpp pushing to cause failure
-// Change  F:\src\VCTests\git\master2\test1.cpp pushing to cause failure
-// Change  F:\src\VCTests\git\master2\test1.cpp pushing to cause failure
-// Change  F:\src\VCTests\git\master2\test1.cpp pushing to cause failure ##
-// Change  F:\src\VCTests\git\master2\test1.cpp pushing to cause failure ##
-//clark3
-
-// change on master
-// change on master
+// change /src/vcTest/git/master2/test1.cpp
 
 /* 
   change on master
