@@ -11,7 +11,7 @@
 //clark3
 // Change  F:\src\VCTests\git\test1\test1.cpp
 // Change  F:\src\VCTests\git\test1\test1.cpp testing push
-// Change  F:\src\VCTests\git\test1\test1.cpp testing push
+// Change  F:\src\VCTests\git\test1\test1.cpp pushing to cause failure
 //clark3
 
 // change on master
