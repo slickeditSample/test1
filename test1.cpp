@@ -15,6 +15,8 @@
 */
 #include <stdio.h>
 
+// item at top
+
 int main(int argc, char *argv[])
 {
     if (  ) 
@@ -24,10 +26,3 @@ int main(int argc, char *argv[])
     // change in func
     return(0);
 }
-// Commit from f:\src\VCTests\git3\master\test1.cpp
-// Commit from /src/vcTest/git/master2/test1.cpp
-// Commit from /src/vcTest/git/master2/test1.cpp
-// Commit from /src/vcTest/git/master2/test1.cpp
-// Commit from /src/vcTest/git/master2/test1.cpp
-// Commit from /src/vcTest/git/master2/test1.cpp
-// Commit from /src/vcTest/git/master2/test1.cpp
