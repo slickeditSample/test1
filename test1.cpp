@@ -26,7 +26,3 @@ int main(int argc, char *argv[])
     // change in func
     return(0);
 }
-// add items to bottom
-// add items to bottom
-// add items to bottom
-// add items to bottom
