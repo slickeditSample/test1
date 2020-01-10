@@ -15,8 +15,6 @@
 */
 #include <stdio.h>
 
-// Change above main
-
 int main(int argc, char *argv[])
 {
     if (  ) 
@@ -26,4 +24,3 @@ int main(int argc, char *argv[])
     // change in func
     return(0);
 }
-// Change at bottom
