@@ -13,6 +13,7 @@ int func1() {
 =======
 >>>>>>> master
 #include <stdio.h>
+
 //newline
 // more
 // more
