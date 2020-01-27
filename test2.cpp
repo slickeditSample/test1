@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 // func1
 // Adding a comment to test if all branches a pulled
@@ -7,6 +8,8 @@
 int func1() {
 }
 =======
+=======
+>>>>>>> master
 =======
 >>>>>>> master
 #include <stdio.h>
@@ -22,6 +25,9 @@ int main (int argc, char *argv[])
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> master
+=======
 >>>>>>> master
 =======
 >>>>>>> master

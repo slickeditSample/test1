@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 // This is a comment added from test1 directory
 // This is a comment added from test1 directory 2:09pm
 // newline
@@ -16,7 +15,6 @@
 */
 #include <stdio.h>
 
-<<<<<<< HEAD
 // Mod in branch 1
 // Mod in branch 1
 
@@ -33,22 +31,10 @@ int main(int argc, char *argv[])
     // change in branch1
     // change in master
     // change in master
-=======
-// item at top
-// item at top
-// item at top
-
-int main(int argc, char *argv[])
-{
-    if (  ) 
-    {
-    }
->>>>>>> master
     printf("main in\n");
     // change in func
     return(0);
 }
-=======
 // This is a comment added from test1 directory
 // This is a comment added from test1 directory 2:09pm
 // newline
@@ -79,4 +65,3 @@ int main(int argc, char *argv[])
     // change in func
     return(0);
 }
->>>>>>> master
