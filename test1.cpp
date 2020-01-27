@@ -1,5 +1,21 @@
+// This is a comment added from test1 directory
+// This is a comment added from test1 directory 2:09pm
+// newline
+// more
+// This is the change that Dan made 2019/10/29
+// new xyz
+// new
+// new
+//clark1
+//clark2
+//clark3
+
+/* 
+  change on master
+*/
 #include <stdio.h>
 
+<<<<<<< HEAD
 // Mod in branch 1
 // Mod in branch 1
 
@@ -16,7 +32,18 @@ int main(int argc, char *argv[])
     // change in branch1
     // change in master
     // change in master
+=======
+// item at top
+// item at top
+// item at top
+
+int main(int argc, char *argv[])
+{
+    if (  ) 
+    {
+    }
+>>>>>>> master
     printf("main in\n");
+    // change in func
     return(0);
 }
-
