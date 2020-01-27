@@ -11,3 +11,5 @@ static int func4() {
     //Added from TEMP/branch1 x
     return 4;
 }
+
+// Change on master
