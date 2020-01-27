@@ -5,3 +5,5 @@ static int func5() {
     //Added from TEMP/branch1 x
     return 5;
 }
+
+// Change on master
