@@ -6,3 +6,5 @@ int func2(int a) {
 }
 
 // Change on master
+
+// Change on master
