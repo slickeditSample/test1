@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 // func1
 // Adding a comment to test if all branches a pulled
@@ -6,6 +7,8 @@
 int func1() {
 }
 =======
+=======
+>>>>>>> master
 #include <stdio.h>
 //newline
 // more
@@ -18,4 +21,7 @@ int main (int argc, char *argv[])
     return(0);            // conflict ######
 }
 
+<<<<<<< HEAD
+>>>>>>> master
+=======
 >>>>>>> master
