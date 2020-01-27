@@ -269,6 +269,9 @@
             <F N="test2.cpp"/>
             <F N="test3.cpp"/>
             <F N="test4.cpp"/>
+            <F N="test5.cpp"/>
+            <F N="test6.cpp"/>
+            <F N="test7.cpp"/>
         </Folder>
         <Folder
             Name="Header Files"
