@@ -11,9 +11,6 @@
 //clark2
 //clark3
 
-/* 
-  change on master
-*/
 #include <stdio.h>
 
 // item at top
