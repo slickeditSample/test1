@@ -23,9 +23,6 @@
 int main(int argc, char *argv[])
 {
     if (  ) {
-        // comment
-        // comment
-        // comment
     }
     printf("main in\n");
     // change in func
