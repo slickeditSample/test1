@@ -7,9 +7,6 @@
 // new xyz
 // new
 // new
-//clark1
-//clark2
-//clark3
 
 #include <stdio.h>
 
