@@ -1,5 +1,4 @@
 // This is a comment added from test1 directory
-
 // This is a comment added from test1 directory 2:09pm
 // newline
 // more
@@ -15,6 +14,5 @@ int main(int argc, char *argv[])
     if (  ) {
     }
     printf("main in\n");
-    // change in func
-    return(0);
+    return (0);
 }
