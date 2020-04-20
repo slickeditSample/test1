@@ -4,8 +4,6 @@
 // more
 // This is the change that Dan made 2019/10/29
 // new xyz
-// new
-// new
 
 #include <stdio.h>
 
