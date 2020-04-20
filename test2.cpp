@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//newline
+// newline
 // more
 // more
 // test2.cpp
