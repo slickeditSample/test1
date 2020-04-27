@@ -1,4 +1,5 @@
 // This is a comment added from test1 directory
+// Second comment
 
 #include <stdio.h>
 
