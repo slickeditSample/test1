@@ -1,11 +1,6 @@
 
-   ```python    
-if x:
-    print(x)
-   ```
 
-
-```python    
+```{python}    
 if x:
     print(x)
 ```
