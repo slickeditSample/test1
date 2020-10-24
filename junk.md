@@ -1,6 +1,6 @@
 
 
-```{python}    
+```python  x  
 if x:
     print(x)
 ```
