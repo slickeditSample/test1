@@ -1,9 +1,9 @@
 
 
-```python  xssdf sdf if x: print(x)  
+```python
 if x:
-    print(x)
-```
+    print("sdf")```
+
 
 ```python
 if x:
