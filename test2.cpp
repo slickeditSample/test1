@@ -11,15 +11,6 @@ int main (int argc, char *argv[])
     return(0);            // conflict ######
 }
 
-// Change on master
-
-// Change on master
-
-// Change on master
-
-// Change on master
-
-// Change on master
 #include <stdio.h>
 //newline
 // more
