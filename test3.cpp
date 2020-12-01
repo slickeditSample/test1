@@ -1,7 +1,3 @@
-
-
-// func2
-// mod to test stashing
 int func2() {
 }
 // func2

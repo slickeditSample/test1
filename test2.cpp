@@ -1,10 +1,4 @@
 
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> ca55064bf383e23011f1c5b6661dfa2cd02af519
-
 // func1
 // Adding a comment to test if all branches a pulled
 // Adding a comment to test if all branches a pulled
