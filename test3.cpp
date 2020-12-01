@@ -1,3 +1,5 @@
+int func2() {
+}
 // func2
 
 int func2(int a) {

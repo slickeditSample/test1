@@ -1,3 +1,5 @@
+void func4() {
+}
 
 static int func4() {
     //Added from TEMP/branch1 x
