@@ -1,14 +1,14 @@
-// This is a comment added from test1 directory
-// This is a comment added from test1 directory 2:09pm
-// newline
-// more
-// This is the change that Dan made 2019/10/29
-// new xyz
-// new
-// new
-//clark1
-//clark2
-//clark3
+qrs// This is a comment added from test1 directory
+qrs// This is a comment added from test1 directory 2:09pm
+qrs// newline
+qrs// more
+qrs// This is the change that Dan made 2019/10/29
+qrs// new xyz
+qrs// new
+qrs// new
+qrs//clark1
+qrs//clark2
+qrs//clark3
 
 /* 
   change on master
