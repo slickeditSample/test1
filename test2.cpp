@@ -1,6 +1,6 @@
-x// func1
-x// Adding a comment to test if all branches a pulled
-x// Adding a comment to test if all branches a pulled
+xy// func1
+xy// Adding a comment to test if all branches a pulled
+xy// Adding a comment to test if all branches a pulled
 int func1() {
 }
 #include <stdio.h>
