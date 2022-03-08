@@ -1,11 +1,11 @@
 #include <stdio.h>
 
-// On master
+// On master main
 
 int main(int argc, char *argv[])
 {
-    // On master
+    // On master main
     printf("main in\n");
-    // On master
+    // On master main
     return(0);
 }
