@@ -1,3 +1,12 @@
+<<<<<<< Updated upstream
+1xyz// func1
+1xyz// Adding a comment to test if all branches a pulled
+1xyz// Adding a comment to test if all branches a pulled
+=======
+axyz// func1
+axyz// Adding a comment to test if all branches a pulled
+axyz// Adding a comment to test if all branches a pulled
+>>>>>>> Stashed changes
 int func1() {
 }
 #include <stdio.h>
