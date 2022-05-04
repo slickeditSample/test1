@@ -2,16 +2,16 @@
 
 // On test1
 
-//INSERTED 1530
-//INSERTED 1530
-//INSERTED 1530
+//INSERTED 1537a
+//INSERTED 1537b
+//INSERTED 1537c
 
 int main(int argc, char *argv[]) {
     // On test1
     printf("main in\n");
-    //INSERT another
-    //INSERT
+    //INSERT A
+    //INSERT B
 
-    // On test1change this
+    // On test1
     return (0);
 }
