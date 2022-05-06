@@ -1,5 +1,3 @@
-
-
 int func2() {
 }
 // func2
