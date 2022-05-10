@@ -2,11 +2,6 @@
 
 // On test1
 
-
-
-
-
-
 //INSERTED 1537a
 
 int main(int argc, char *argv[])  {
