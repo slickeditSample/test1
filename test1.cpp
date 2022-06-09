@@ -6,22 +6,15 @@
 
 int main(int argc, char *argv[])         {
 
-
-
-
-   // On test1
-    printf("main in\n");
-    printf("main in\n");
-    printf("main in\n");
-
-
+    // On test1
     printf("main in\n");
     //INSERT A
 
+    //INSERT B
 
 
     //INSERT B
-
+    //INSERT Y
 
     // On test1 change
     return (0);
