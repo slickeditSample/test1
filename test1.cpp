@@ -7,12 +7,11 @@
 int main(int argc, char *argv[])         {
 
     // On test1
-    printf("main in\n");
+    printf("This is a test\n");
     //INSERT A
 
-//
+    int i=0;
 
-    //INSERT B
     //INSERT Y
     return (0);
 }
