@@ -10,13 +10,9 @@ int main(int argc, char *argv[])         {
     printf("main in\n");
     //INSERT A
 
+//
+
     //INSERT B
-
-    //INSERT Bxxxx
     //INSERT Y
-
-
-
-
     return (0);
 }
