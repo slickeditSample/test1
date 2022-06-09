@@ -11,7 +11,12 @@ int main(int argc, char *argv[])         {
 
    // On test1
     printf("main in\n   ");
-    //INSERT A
+    printf("main in\n   ");
+    printf("main in\n   ");
+    printf("main in\n   ");
+    //INSERT Axxxxx
+
+
 
     //INSERT B
 
