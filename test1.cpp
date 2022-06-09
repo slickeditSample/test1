@@ -9,14 +9,13 @@ int main(int argc, char *argv[])         {
     // On test1
     printf("This is a test\n");
     //INSERT A
-    //INSERT A
-    //INSERT A
-    //INSERT A
+    //INSERT B
+    //INSERT C
+    //INSERT D
 
-    int i=0;
+    int i=5150;
 
-
-
+    //INSERT Y
     //INSERT Y
     return (0);
 }
