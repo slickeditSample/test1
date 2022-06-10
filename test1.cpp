@@ -7,16 +7,13 @@
 int main(int argc, char *argv[])         {
 
     // On test1
+    printf("This is a test\n")   ;
 
-    printf("This is a test\n");
+    //INSERT A
+    //INSERT B
+    //INSERT C
+    //INSERT D
 
-    //INSERT 0x1
-    //INSERT 
-    //INSERT 0x4
-    //INSERT 0x8
-
-    int i = 5150;
-
-
+    int i = 5150   ;
     return 0;
 }
