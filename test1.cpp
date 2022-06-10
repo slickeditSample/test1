@@ -8,17 +8,15 @@ int main(int argc, char *argv[])         {
 
     // On test1
     printf("This is a test\n");
-    //INSERT A
-    //INSERT B
-    //INSERT C
-    //INSERT D
+    //INSERT 0x1
+    //INSERT 0x2
+    //INSERT 0x4
+    //INSERT 0x8
 
 
-    //INSERT X
     //INSERT Y
-    //INSERT Z
 
-    int i = 5151;
+    int i = 5150;
 
     return 0;
 }
