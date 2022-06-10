@@ -10,7 +10,7 @@ int main(int argc, char *argv[])         {
     printf("This is a test\n");
 
     //INSERT 1
-    //INSERT yyy
+    //INSERT yxx
     //INSERT 4
     //INSERT 8
 
