@@ -17,5 +17,5 @@ int main(int argc, char *argv[])         {
 
 
     int i = 5150   ;
-    return 0;
+    return 0;C:\src\VCTests\git\test1_branch1_a\test1.cppC:\src\VCTests\git\test1_branch1_a\test1.cppC:\src\VCTests\git\test1_branch1_a\test1.cpp
 }
