@@ -13,9 +13,9 @@ int main(int argc, char *argv[])         {
     //INSERT 0x02
     //INSERT 0x04
     //INSERT 0x08
-    //INSERT 0x10
+    k//INSERT 0x10
 
 
-    int i = 5150   ;
-    return 0;C:\src\VCTests\git\test1_branch1_a\test1.cppC:\src\VCTests\git\test1_branch1_a\test1.cppC:\src\VCTests\git\test1_branch1_a\test1.cpp
+    int i = 5150;
+    return 0;
 }
