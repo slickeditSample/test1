@@ -10,10 +10,10 @@ int main(int argc, char *argv[])         {
     printf("This is a test\n");
 
     //INSERT 1
-    //INSERT yxzxx
-    //INSERT 4
-    //INSERT 8
+    //INSERT x
+    //INSERT y
+    //INSERT z
 
-    int i = 5151;
+    int i= 5150 ;
     return 0;
 }
