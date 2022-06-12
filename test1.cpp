@@ -9,13 +9,12 @@ int main(int argc, char *argv[])         {
     // On test1
     printf("This is a test\n");
 
-    //INSERT 0x01
-    //INSERT 0x02
-    //INSERT 0x04
-    //INSERT 0x08
-    //INSERT 0x10
-
+    //INSERT A
+    //INSERT B
+    //INSERT C
+    //INSERT D
 
     int i = 5150;
+
     return 0;
 }
