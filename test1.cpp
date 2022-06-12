@@ -9,13 +9,11 @@ int main(int argc, char *argv[])         {
     // On test1
     printf("This is a test\n");
 
-    //INSERT 0x001
-    //INSERT 0x002
-    //INSERT 0x004
-    //INSERT 0x008
-    //INSERT 0x010
-
-    // CHECK FETCH FILE TO BE SURE IT'S SETTING THE VALUE BACK AT THE RIGHT TIME
+    //INSERT 0x01
+    //INSERT 0x02
+    //INSERT 0x04
+    //INSERT 0x08
+    //INSERT 0x10
 
 
     int i = 5150   ;
