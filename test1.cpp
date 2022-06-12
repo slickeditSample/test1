@@ -13,7 +13,7 @@ int main(int argc, char *argv[])         {
     //INSERT 0x02
     //INSERT 0x04
     //INSERT 0x08
-    k//INSERT 0x10
+    //INSERT 0x10
 
 
     int i = 5150;
