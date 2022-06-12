@@ -10,8 +10,6 @@ int main(int argc, char *argv[])         {
     printf("This is a test\n");
 
     //INSERT A 
-    //INSERT B 
-    //INSERT C 
     //INSERT D
 
     int i = 5150;
