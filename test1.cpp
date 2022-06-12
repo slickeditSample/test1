@@ -15,6 +15,8 @@ int main(int argc, char *argv[])         {
     //INSERT 0x008
     //INSERT 0x010
 
+    // CHECK FETCH FILE TO BE SURE IT'S SETTING THE VALUE BACK AT THE RIGHT TIME
+
 
     int i = 5150   ;
 
