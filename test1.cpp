@@ -11,8 +11,8 @@ int main(int argc, char *argv[])         {
 
     //INSERT A 
     //INSERT B
-    //INSERT C  xxxx
-    //INSERT D
+    //INSERT C
+    //INSERT DXXX
 
     int i = 5150;
 
