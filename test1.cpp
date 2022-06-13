@@ -10,10 +10,9 @@ int main(int argc, char *argv[])         {
     printf("This is a test\n");
 
     //INSERT 0x1
-    //INSERT 0x2x
-    //INSERT 0x4x
+    //INSERT 0x2
+    //INSERT 0x4
     //INSERT 0x8
-    //INSERT 0x10
 
     int i =5150;
 
