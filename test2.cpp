@@ -20,6 +20,7 @@ static int func5() {
 
 static int func6() {
 }
+`
 
 static int func7() {
 }
@@ -63,261 +64,197 @@ static int func19() {
 static int func20() {
 }
 
-//static int func21()
-//{
-//}
-//
-//static int func22()
-//{
-//}
-//
-//static int func23()
-//{
-//}
-//
-//static int func24()
-//{
-//}
-//
-//static int func25()
-//{
-//}
-//
-//static int func26()
-//{
-//}
-//
-//static int func27()
-//{
-//}
-//
-//static int func28()
-//{
-//}
-//
-//static int func29()
-//{
-//}
-//
-//static int func30()
-//{
-//}
-//
-//static int func31()
-//{
-//}
-//
-//static int func32()
-//{
-//}
-//
-//static int func33()
-//{
-//}
-//
-//static int func34()
-//{
-//}
-//
-//static int func35()
-//{
-//}
-//
-//static int func36()
-//{
-//}
-//
-//static int func37()
-//{
-//}
-//
-//static int func38()
-//{
-//}
-//
-//static int func39()
-//{
-//}
-//
-//static int func40()
-//{
-//}
-//
-//static int func41()
-//{
-//}
-//
-//static int func42()
-//{
-//}
-//
-//static int func43()
-//{
-//}
-//
-//static int func44()
-//{
-//}
-//
-//static int func45()
-//{
-//}
-//
-//static int func46()
-//{
-//}
-//
-//static int func47()
-//{
-//}
-//
-//static int func48()
-//{
-//}
-//
-//static int func49()
-//{
-//}
-//
-//static int func50()
-//{
-//}
-//
-//static int func51()
-//{
-//}
-//
-//static int func52()
-//{
-//}
-//
-//static int func53()
-//{
-//}
-//
-//static int func54()
-//{
-//}
-//
-//static int func55()
-//{
-//}
-//
-//static int func56()
-//{
-//}
-//
-//static int func57()
-//{
-//}
-//
-//static int func58()
-//{
-//}
-//
-//static int func59()
-//{
-//}
-//
-//static int func60()
-//{
-//}
-//
-//static int func61()
-//{
-//}
-//
-//static int func62()
-//{
-//}
-//
-//static int func63()
-//{
-//}
-//
-//static int func64()
-//{
-//}
-//
-//static int func65()
-//{
-//}
-//
-//static int func66()
-//{
-//}
-//
-//static int func67()
-//{
-//}
-//
-//static int func68()
-//{
-//}
-//
-//static int func69()
-//{
-//}
-//
-//static int func70()
-//{
-//}
-//
-//static int func71()
-//{
-//}
-//
-//static int func72()
-//{
-//}
-//
-//static int func73()
-//{
-//}
-//
-//static int func74()
-//{
-//}
-//
-//static int func75()
-//{
-//}
-//
-//static int func76()
-//{
-//}
-//
-//static int func77()
-//{
-//}
-//
-//static int func78()
-//{
-//}
-//
-//static int func79()
-//{
-//}
-//
-//static int func80()
-//{
-//}
-//
-//static int func81()
-//{
-//}
-//
-//static int func82()
-//{
-//}
-//
-//static int func83()
-//{
-//}
-//
-//static int func84()
-//{
-//}
+static int func21() {
+}
+
+static int func22() {
+}
+
+static int func23() {
+}
+
+static int func24() {
+}
+
+static int func25() {
+}
+
+static int func26() {
+}
+
+static int func27() {
+}
+
+static int func28() {
+}
+
+static int func29() {
+}
+
+static int func30() {
+}
+
+static int func31() {
+}
+
+static int func32() {
+}
+
+static int func33() {
+}
+
+static int func34() {
+}
+
+static int func35() {
+}
+
+static int func36() {
+}
+
+static int func37() {
+}
+
+static int func38() {
+}
+
+static int func39() {
+}
+
+static int func40() {
+}
+
+static int func41() {
+}
+
+static int func42() {
+}
+
+static int func43() {
+}
+
+static int func44() {
+}
+
+static int func45() {
+}
+
+static int func46() {
+}
+
+static int func47() {
+}
+
+static int func48() {
+}
+
+static int func49() {
+}
+
+static int func50() {
+}
+
+static int func51() {
+}
+
+static int func52() {
+}
+
+static int func53() {
+}
+
+static int func54() {
+}
+
+static int func55() {
+}
+
+static int func56() {
+}
+
+static int func57() {
+}
+
+static int func58() {
+}
+
+static int func59() {
+}
+
+static int func60() {
+}
+
+static int func61() {
+}
+
+static int func62() {
+}
+
+static int func63() {
+}
+
+static int func64() {
+}
+
+static int func65() {
+}
+
+static int func66() {
+}
+
+static int func67() {
+}
+
+static int func68() {
+}
+
+static int func69() {
+}
+
+static int func70() {
+}
+
+static int func71() {
+}
+
+static int func72() {
+}
+
+static int func73() {
+}
+
+static int func74() {
+}
+
+static int func75() {
+}
+
+static int func76() {
+}
+
+static int func77() {
+}
+
+static int func78() {
+}
+
+static int func79() {
+}
+
+static int func80() {
+}
+
+static int func81() {
+}
+
+static int func82() {
+}
+
+static int func83() {
+}
+
+static int func84() {
+}
 
 static int func85() {
 }
