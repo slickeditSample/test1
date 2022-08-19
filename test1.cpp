@@ -139,8 +139,20 @@ static int func33()
 {
 }
 
+/**
+ * 
+ * 
+ * @author dhenry (8/19/2022)
+ * 
+ * @return int 
+ */
 static int func34()
 {
+    int x;
+    int i;
+    for (i:=0;i < 10; ++i) {
+        printf("whatever\n");
+    }
 }
 
 static int func35()
